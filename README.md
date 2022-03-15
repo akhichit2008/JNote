@@ -1,5 +1,5 @@
 # JNote
-JNote is a java based text-editor.
+JNote is a java based text-editor. It is useful for quickly taking short notes. This is my first ever Java Project.
 
 ![JNOTE_Logo](https://user-images.githubusercontent.com/88311744/158428365-b3a3c4b6-7fe2-4d81-b855-7eacdede34dd.png)
 
